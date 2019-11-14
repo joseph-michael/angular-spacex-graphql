@@ -2,7 +2,7 @@ header {
     background: url("/assets/about-stars-bg.jpg");
     background-size: cover ;
     background-position: center;
-    height: 40vw;
+    height: 30vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,4 +11,9 @@ header {
 header h2 {
     margin: 0;
     color: #fff;
+    font-size: 2vw;
+}
+
+.description {
+    margin-top: 3em;
 }
