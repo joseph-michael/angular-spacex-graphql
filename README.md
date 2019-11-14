@@ -1,6 +1,6 @@
 # Space X Launch List
 
-![app screenshot](https://raw.githubusercontent.com/joseph-michael/angular-spacex-graphql/master/public/angularspacex.jpg)
+![app screenshot](https://raw.githubusercontent.com/joseph-michael/angular-spacex-graphql/master/src/assets/angularspacex.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
