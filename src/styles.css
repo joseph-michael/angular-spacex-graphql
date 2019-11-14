@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+a{color: #fff; text-decoration: none;}
+.header__nav{ background: #000; display: flex; align-items: center; padding: 1em 2em;}
+.nav__about-link{margin-left: auto; color: #fff; text-decoration: none;}
+.wrapper{max-width:990px; margin: 0 auto; padding: 0 .5em;}
